@@ -1,0 +1,14 @@
+section#Hero {
+    min-height: 20rem;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section#Hero h1 {
+    color: black;
+    font-size: 8rem;
+    text-align: center;
+    text-wrap: wrap;
+}
