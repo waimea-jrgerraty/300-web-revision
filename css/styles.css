@@ -1,0 +1,24 @@
+nav {
+    border-bottom: 2px solid var(--pico-primary);
+}
+
+section#hero {
+    min-height: 20rem;
+    background-color: var(--pico-secondary-background);
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section#hero h1 {
+    color: var(--pico-secondary-inverse);
+    font-size: 8rem;
+    text-align: center;
+    text-wrap: wrap;
+}
+
+section#likes div {
+    display: flex;
+    gap: 1rem;
+}
